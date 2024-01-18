@@ -1,6 +1,6 @@
 # Primitive Shapes for 3DS Max
 
-This gist has an educational [YouTube](https://youtu.be/S25-6J11FoY) video demonstrating how to create primitive shapes inside `3DS Max 2024` software. Since it is an instructional video it contains an introduction to the modeling software, as well as tips and tricks for achieving a quicker workflow when modeling.
+This gist has an educational [YouTube](https://youtu.be/HTt2ijB91OQ) video demonstrating how to create primitive shapes inside `3DS Max 2024` software. Since it is an instructional video it contains an introduction to the modeling software, as well as tips and tricks for achieving a quicker workflow when modeling.
 
 ## _Table of Contents_
 
@@ -9,7 +9,7 @@ This gist has an educational [YouTube](https://youtu.be/S25-6J11FoY) video demon
 
 ## _YouTube Video_
 
-Before I begin, check out my brief tutorial video available on [YouTube](https://youtu.be/S25-6J11FoY) that summarizes the content within this readme file. Please feel free to like and subscribe.
+Before I begin, check out my brief tutorial video available on [YouTube](https://youtu.be/HTt2ijB91OQ) that summarizes the content within this readme file. Please feel free to like and subscribe.
 
 ## _Primitive Shapes_
 
